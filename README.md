@@ -40,5 +40,5 @@ To experience FoodZone's website locally, follow these simple steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/foodzone.git
+   git clone https://github.com/pranjali22pandey/foodzone.git
 
